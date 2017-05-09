@@ -1,5 +1,5 @@
 # HTML Academy Landing
-![htmlacademy](https://github.com/htmlacademy/logo/blob/master/png/logo/logo-color-1.png)
+![htmlacademy](https://github.com/htmlacademy/logo/blob/master/png/logo-name/logo-white-1.png)
 
 ## Project summary
 * High Resolution: Yes
